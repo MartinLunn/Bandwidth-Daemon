@@ -11,6 +11,9 @@ Instructions for use:
 4.  (Optional) Customize the message and usage statistics to be displayed in the TEXT and SUBJECT fields.
 5.  Test by navigating to the directory and invoking "python teksavvy_cron.py"
 6.  If everything is working, you should recieve an email that looks quite close to the following:
+
+![Image of email](https://raw.githubusercontent.com/Chris1221/Bandwidth_daemon/master/images/screenshot_1.png)
+
 7.  Add the file to your crontab by invoking "crontab -e" in a fresh terminal window. This will default to your default text editor, which for me is vi.  
 8.  Add the following line to your crontab, replacing values as desired: 0 9 * * * /path/to/python /path/to/teksavvy_cron.py
 9.  Ta-da! Hopefully it works.  If not, raise an issue on this repo and we'll try to sort it out. 
