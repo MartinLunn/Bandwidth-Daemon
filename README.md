@@ -1,4 +1,7 @@
 # Bandwidth_daemon
+
+[![Build Status](https://travis-ci.org/Chris1221/Bandwidth_daemon.svg?branch=master)](https://travis-ci.org/Chris1221/Bandwidth_daemon)
+
 Every day at a set time, retrieve bandwidth usage and statistics from your ISP. 
 
 Currently only works with Teksavvy, though can be modified for different API structures. 
