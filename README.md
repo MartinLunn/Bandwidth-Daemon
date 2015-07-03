@@ -1,6 +1,6 @@
 # Bandwidth_daemon
 
-[![Build Status](https://travis-ci.org/Chris1221/Bandwidth_daemon.svg?branch=master)](https://travis-ci.org/Chris1221/Bandwidth_daemon)
+[![Build Status](https://travis-ci.org/Chris1221/Bandwidth_daemon.svg?branch=master)](https://travis-ci.org/Chris1221/Bandwidth_daemon) [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/0.1.0/active.svg)](http://www.repostatus.org/#active)
 
 Every day at a set time, retrieve bandwidth usage and statistics from your ISP. 
 
