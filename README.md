@@ -24,3 +24,7 @@ Instructions for use:
 
 Note that the computer has to be on to run the program.  I have mine running every morning at 9 am on a headless raspberry pi connected to the internet.  This tiny script will not interfere with whatever else you're using an rpi for, so I would highly recommend doing it this way.  
 
+
+
+#import time. 
+:D
